@@ -1,3 +1,7 @@
 tortilla
 beans
-
+ground beef
+lettuce
+tomato
+cheese
+guacamole
